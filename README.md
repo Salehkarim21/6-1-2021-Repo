@@ -9,7 +9,7 @@ This will be the third commit
 
 ## Getting Started
 ```bash
-git clone https://github.com/salehkarim21/ag-intro
+git clone https://github.com/Salehkarim21/ag-intro
 cd ag-intro
 make
 ```
