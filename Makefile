@@ -19,6 +19,8 @@ file2.txt file3.txt: file0.txt file1.txt
 	touch file2.txt
 	touch file3.txt
 
+conda_env:	
+	conda env create --name=more-map-and-call --file=env.yaml
 # A phony target. Any target that isn't a file.
 # It will never be up to date so make will always try to run it.
 clean:
