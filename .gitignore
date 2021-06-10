@@ -1,2 +1,4 @@
 file*.txt
 genome.gtf
+test.paired_end.sorted.bam
+Makefile
