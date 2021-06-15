@@ -1,0 +1,13 @@
+# Program:featureCounts v2.0.1; Command:"featureCounts" "-t" "gene" "-g" "gene_id" "-a" "cov_genome.gtf" "-o" "cov_counts.txt" "cov_test.paired_end.sorted.bam" 
+Geneid	Chr	Start	End	Strand	Length	cov_test.paired_end.sorted.bam
+orf1ab	MT192765.1	259	21548	+	21290	151
+S	MT192765.1	21556	25377	+	3822	22
+ORF3a	MT192765.1	25386	26213	+	828	3
+E	MT192765.1	26238	26465	+	228	2
+M	MT192765.1	26516	27184	+	669	4
+ORF6	MT192765.1	27195	27380	+	186	0
+ORF7a	MT192765.1	27387	27752	+	366	0
+ORF7b	MT192765.1	27749	27880	+	132	0
+ORF8	MT192765.1	27887	28252	+	366	0
+N	MT192765.1	28267	29526	+	1260	7
+ORF10	MT192765.1	29551	29667	+	117	0

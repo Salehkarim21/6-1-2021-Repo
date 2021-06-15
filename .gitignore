@@ -1,11 +1,10 @@
 # input
 genome.gtf
 test.paired_end.sorted.bam
+cov_genome.gtf
+cov_test.paired_end.sorted.bam
+
 # logs
 *.out
 # results
 counts.txt*
-
-# input
-cov_genome.gtf
-cov_test.paired_end.sorted.bam
