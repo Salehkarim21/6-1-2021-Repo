@@ -1,4 +1,4 @@
-all: download_data featurecounts
+all: download_data featureCounts
 
 download_data: genome.gtf test.paired_end.sorted.bam cov_genome.gtf cov_test.paired_end.sorted.bam
 
