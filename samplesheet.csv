@@ -1,0 +1,9 @@
+﻿sample,fastq_1,fastq_2,strandedness
+Patient1_plus_rep1,/scratch/applied-genomics/cov-t-rnaseqSRR14607635_GSM5328143_PS_CD8_T_cells_patient1_Homo_sapiens_RNA-Seq.fastq.gz,,reverse
+Patient2_plus_rep1,/scratch/applied-genomics/cov-t-rnaseqSRR14607636_GSM5328144_PS_CD8_T_cells_patient2_Homo_sapiens_RNA-Seq.fastq.gz,,reverse
+Patient3_plus_rep1,/scratch/applied-genomics/cov-t-rnaseqSRR14607637_GSM5328145_PS_CD8_T_cells_patient3_Homo_sapiens_RNA-Seq.fastq.gz,,reverse
+Patient4_plus_rep1,/scratch/applied-genomics/cov-t-rnaseqSRR14607638_GSM5328146_PS_CD8_T_cells_patient4_Homo_sapiens_RNA-Seq.fastq.gz,,reverse
+Patient1_minus_rep1,/scratch/applied-genomics/cov-t-rnaseqSRR14607639_GSM5328147_PS-_CD8_T_cells_patient1_Homo_sapiens_RNA-Seq.fastq.gz,,reverse
+Patient2_minus_rep1,/scratch/applied-genomics/cov-t-rnaseqSRR14607640_GSM5328148_PS-_CD8_T_cells_patient2_Homo_sapiens_RNA-Seq.fastq.gz,,reverse
+Patient3_minus_rep1,/scratch/applied-genomics/cov-t-rnaseqSRR14607641_GSM5328149_PS-_CD8_T_cells_patient3_Homo_sapiens_RNA-Seq.fastq.gz,,reverse
+Patient4_minus_rep1,/scratch/applied-genomics/cov-t-rnaseqSRR14607642_GSM5328150_PS-_CD8_T_cells_patient4_Homo_sapiens_RNA-Seq.fastq.gz,,reverse
