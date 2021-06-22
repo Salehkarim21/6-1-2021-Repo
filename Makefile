@@ -27,3 +27,7 @@ conda_env:
 
 clean:
 	genome.gtf test.paired_end.sorted.bam cov_genome.gtf cov_test.paired_end.sorted.bam
+	rm *.bam *.gtf *count.txt *.out
+	rm -f .nextflow.log*
+	rm -rf .nextflow*
+	rm -rf work

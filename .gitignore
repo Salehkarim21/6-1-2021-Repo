@@ -6,5 +6,11 @@ cov_test.paired_end.sorted.bam
 
 # logs
 *.out
+
 # results
 counts.txt*
+work/
+data/
+results/
+.nextflow*
+nextflow
