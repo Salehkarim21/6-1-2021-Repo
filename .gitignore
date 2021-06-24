@@ -3,12 +3,16 @@ genome.gtf
 test.paired_end.sorted.bam
 cov_genome.gtf
 cov_test.paired_end.sorted.bam
+slurm-2336.out
+slurm-2339.out
 
 # logs
 *.out
 
 # results
 counts.txt*
+
+# Nextflow
 work/
 data/
 results/

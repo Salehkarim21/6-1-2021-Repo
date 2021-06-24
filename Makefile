@@ -25,6 +25,21 @@ cov.counts.txt:
 conda_env:	
 	conda env create --name=more-map-and-call --file=env.yaml
 
+
+
+SHELL:=/bin/bash
+NXF_VER:=21.04.1
+
+install: ./nextflow
+
+./nextflow:
+	export NXF_VER="$(NXF_VER)" && \
+	curl -fsSL get.nextflow.io | bash
+
+
+run: install
+	./nextflow run nf-core/rnaseq -r 3.1 -profile utd_sysbio -params-file nf-params.json
+
 clean:
 	genome.gtf test.paired_end.sorted.bam cov_genome.gtf cov_test.paired_end.sorted.bam
 	rm *.bam *.gtf *count.txt *.out
