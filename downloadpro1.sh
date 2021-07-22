@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/098/SRR13305498/SRR13305498_1.fastq.gz -o SRR13305498_GSM4988750_P2A2_Sensitive_PH039_third_passage_source_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/098/SRR13305498/SRR13305498_2.fastq.gz -o SRR13305498_GSM4988750_P2A2_Sensitive_PH039_third_passage_source_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/001/SRR13305501/SRR13305501_1.fastq.gz -o SRR13305501_GSM4988753_F1A4_Sensitive_PH039_first_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/001/SRR13305501/SRR13305501_2.fastq.gz -o SRR13305501_GSM4988753_F1A4_Sensitive_PH039_first_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/000/SRR13305500/SRR13305500_1.fastq.gz -o SRR13305500_GSM4988752_F1A3_Sensitive_PH039_first_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/000/SRR13305500/SRR13305500_2.fastq.gz -o SRR13305500_GSM4988752_F1A3_Sensitive_PH039_first_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/097/SRR13305497/SRR13305497_1.fastq.gz -o SRR13305497_GSM4988749_P2A1_Sensitive_PH039_third_passage_source_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/097/SRR13305497/SRR13305497_2.fastq.gz -o SRR13305497_GSM4988749_P2A1_Sensitive_PH039_third_passage_source_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/002/SRR13305502/SRR13305502_1.fastq.gz -o SRR13305502_GSM4988754_F1A5_Mixed_phenotype_PH039_first_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/002/SRR13305502/SRR13305502_2.fastq.gz -o SRR13305502_GSM4988754_F1A5_Mixed_phenotype_PH039_first_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/099/SRR13305499/SRR13305499_1.fastq.gz -o SRR13305499_GSM4988751_P2A3_Sensitive_PH039_third_passage_source_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/099/SRR13305499/SRR13305499_2.fastq.gz -o SRR13305499_GSM4988751_P2A3_Sensitive_PH039_third_passage_source_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/003/SRR13305503/SRR13305503_1.fastq.gz -o SRR13305503_GSM4988755_F251_Mixed_phenotype_PH039_first_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/003/SRR13305503/SRR13305503_2.fastq.gz -o SRR13305503_GSM4988755_F251_Mixed_phenotype_PH039_first_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/004/SRR13305504/SRR13305504_1.fastq.gz -o SRR13305504_GSM4988756_F351_Resistant_PH039_second_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/004/SRR13305504/SRR13305504_2.fastq.gz -o SRR13305504_GSM4988756_F351_Resistant_PH039_second_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/005/SRR13305505/SRR13305505_1.fastq.gz -o SRR13305505_GSM4988757_F352_Resistant_PH039_second_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/005/SRR13305505/SRR13305505_2.fastq.gz -o SRR13305505_GSM4988757_F352_Resistant_PH039_second_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/006/SRR13305506/SRR13305506_1.fastq.gz -o SRR13305506_GSM4988758_F451_Resistant_PH039_third_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/006/SRR13305506/SRR13305506_2.fastq.gz -o SRR13305506_GSM4988758_F451_Resistant_PH039_third_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/008/SRR13305508/SRR13305508_1.fastq.gz -o SRR13305508_GSM4988760_F453_Resistant_PH039_third_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/008/SRR13305508/SRR13305508_2.fastq.gz -o SRR13305508_GSM4988760_F453_Resistant_PH039_third_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/007/SRR13305507/SRR13305507_1.fastq.gz -o SRR13305507_GSM4988759_F452_Resistant_PH039_third_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR133/007/SRR13305507/SRR13305507_2.fastq.gz -o SRR13305507_GSM4988759_F452_Resistant_PH039_third_passage_niraparib_treated_tumor_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR150/070/SRR15058370/SRR15058370.fastq.gz -o SRR15058370_RNA-Seq_of_homo_sapiens_Ovarian_cancer.fastq.gz
